@@ -14,6 +14,6 @@ Text-editors used: VS Code
 
 ## Screenshots
 
-![Screenshot (28)]()
-![Screenshot (29)]()
+![Screenshot (28)](https://github.com/Pujash19/ExpenseTracker-using-Js/blob/main/ExpenseTracker_js/screenshot.png)
+![Screenshot (29)](https://github.com/Pujash19/ExpenseTracker-using-Js/blob/main/ExpenseTracker_js/main-page.png)
 
